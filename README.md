@@ -40,4 +40,5 @@
 
 | 기간 | 책 | 저자 | 출판사 | 기록 |
 | --- | --- | --- | --- | --- |
-| 2025.02.01 ~  | [전문가를 위한 리액트](https://product.kyobobook.co.kr/detail/S000214977649) | 테자스 쿠마르 | 한빛미디어 |  |
+| 2025.02.01 ~ 2025.05.19  | [전문가를 위한 리액트](https://product.kyobobook.co.kr/detail/S000214977649) | 테자스 쿠마르 | 한빛미디어 | [바로가기](https://github.com/FEDeepDive/BookStudy/tree/main/01.%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8) |
+| 2025.06.02 ~   | [이펙티브 타입스크립트](https://product.kyobobook.co.kr/detail/S000001033114) | 댄 밴더캄 | 인사이트 | [바로가기](https://github.com/FEDeepDive/BookStudy/tree/main/02.%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) |
