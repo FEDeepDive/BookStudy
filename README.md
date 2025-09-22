@@ -11,7 +11,7 @@
 
 - 해당 저장소를 클론받아 GitHub 아이디로 브랜치를 생성합니다.
 - 회의를 통해 정해진 분량만큼 책을 읽고 개인브랜치에 자유롭게 의견을 기록합니다.
-- 매주 월요일 20시 디스코드에 모여 정리한 내용을 공유합니다.
+- 매주 화요일 20시 30분 디스코드에 모여 정리한 내용을 공유합니다.
 - 각자 정리한 내용을 취합해 메인브랜치에 반영합니다.
     - `메인브랜치` → `{책 이름} 디렉토리` → `{챕터} 파일`
 
@@ -40,5 +40,6 @@
 
 | 기간 | 책 | 저자 | 출판사 | 기록 |
 | --- | --- | --- | --- | --- |
-| 2025.02.01 ~ 2025.05.19  | [전문가를 위한 리액트](https://product.kyobobook.co.kr/detail/S000214977649) | 테자스 쿠마르 | 한빛미디어 | [바로가기](https://github.com/FEDeepDive/BookStudy/tree/main/01.%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8) |
-| 2025.06.02 ~   | [이펙티브 타입스크립트](https://product.kyobobook.co.kr/detail/S000001033114) | 댄 밴더캄 | 인사이트 | [바로가기](https://github.com/FEDeepDive/BookStudy/tree/main/02.%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) |
+| 2025.02.01 ~ 2025.05.19 | [전문가를 위한 리액트](https://product.kyobobook.co.kr/detail/S000214977649) | 테자스 쿠마르 | 한빛미디어 | [바로가기](https://github.com/FEDeepDive/BookStudy/tree/main/01.%20%EC%A0%84%EB%AC%B8%EA%B0%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8) |
+| 2025.06.02 ~ 2025.09.16 | [이펙티브 타입스크립트](https://product.kyobobook.co.kr/detail/S000001033114) | 댄 밴더캄 | 인사이트 | [바로가기](https://github.com/FEDeepDive/BookStudy/tree/main/02.%20%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) |
+| 2025.10.14 ~ | [리액트 훅을 활용한 마이크로 상태 관리](https://product.kyobobook.co.kr/detail/S000212233308) | 다이시 카토 | 위키북스 | [바로가기](https://github.com/FEDeepDive/BookStudy/tree/main/03.%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%9B%85%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC) |
